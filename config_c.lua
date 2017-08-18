@@ -17,7 +17,9 @@ settings["br"] = {
 	avionFuelStation = "Posto de Gasolina | Avião ",
 	heliFuelStation = "Posto de Gasolina | Helicoptero",
 	price = "preço"
-
+	
+}
+	
 settings["en"] = {
 	openMenu = "Press ~g~E~w~ to open the menu.",
 	electricError = "~r~You have an electric vehicle.",
